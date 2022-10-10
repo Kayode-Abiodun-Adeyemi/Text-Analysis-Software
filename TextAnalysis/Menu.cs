@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CP
 {
-    class Menu // Using this class is not compulsary
+    class Menu // Using this class is not compulsary. It can be ignored.
     {
         public void MainMenu()
         {
